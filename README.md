@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apollo2236
 - 👀 I’m interested in learning programming to become a self tought software desinger and engineer 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on skills I may need and Projects
 - 📫 How to reach me DM me
 
